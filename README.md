@@ -27,9 +27,9 @@ Bom dia, boa tarde e boa noite! Meu nome é Henrique e tenho um currículo misto
 🎼 Partituras? Talvez disponibilize alguma coisa de meus trabalhos musicais aqui
 
 ---
-Tenho várias redes sociais  (majoritariamente ativas, mas não todas). Sendo as principais o [Instagram](www.instagram.com/henriquevilelamusic), a [Twitch](www.twitch.tv/henriquevilelamusic) e o [Youtube](www.youtube.com/henriquevilelamusic).
+Tenho várias redes sociais  (majoritariamente ativas, mas não todas). Sendo as principais o [Instagram](https://www.instagram.com/henriquevilelamusic), a [Twitch](https://www.twitch.tv/henriquevilelamusic) e o [Youtube](https://www.youtube.com/henriquevilelamusic).
 
-Mas você pode encontrar tudo centralizado no site: [HVilela](www.hvilela.com/social).
+Mas você pode encontrar tudo centralizado no site: [HVilela](https://www.hvilela.com/social).
 
 <!-- passo a passo para os ícones em:
       https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
