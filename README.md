@@ -47,7 +47,7 @@ Mas você pode encontrar tudo centralizado no site: [HVilela](www.hvilela.com/so
 E também, de longe, por estas:
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic) 
 ![](https://img.shields.io/badge/-Delphi-EE1F35?logo=delphi&logoColor=white&style=plastic) 
-![](https://img.shields.io/badge/-Fortran-734F96?logo=python&logoColor=white&style=plastic) 
+![](https://img.shields.io/badge/-Fortran-734F96?logo=fortran&logoColor=white&style=plastic) 
 ![](https://img.shields.io/badge/B-Basic-magenta?style=plastic&logoColor=black)
 
 
