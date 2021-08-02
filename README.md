@@ -27,13 +27,13 @@ Bom dia, boa tarde e boa noite! Meu nome é Henrique e tenho um currículo misto
 🎼 Partituras? Talvez disponibilize alguma coisa de meus trabalhos musicais aqui
 
 ---
-Tenho várias redes sociais  (majoritariamente ativas, mas não todas). Sendo as principais o [Instagram](https://www.instagram.com/henriquevilelamusic), a [Twitch](https://www.twitch.tv/henriquevilelamusic) e o [Youtube](https://www.youtube.com/henriquevilelamusic).
+Tenho várias redes sociais  (majoritariamente ativas, mas não todas). Sendo as principais o [Instagram](https://instagram.com/henriquevilelamusic), a [Twitch](https://twitch.tv/henriquevilelamusic) e o [Youtube](https://youtube.com/henriquevilelamusic).
 
-Mas você pode encontrar tudo centralizado no site: [HVilela](https://www.hvilela.com/social).
+Mas você pode encontrar tudo centralizado no site: [HVilela](https://hvilela.com/social).
 
 <!-- passo a passo para os ícones em:
       https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
-      usando https://shields.io/-->
+      usando https://shields.io/ e ícones de https://simpleicons.org/-->
 ## Já passei por estas linguagens/frameworks: 
 ![](https://img.shields.io/badge/-Assembly%20for%20PIC-007AAC?logo=assemblyscript&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=plastic) 
@@ -62,3 +62,6 @@ Mas você pode encontrar tudo centralizado no site: [HVilela](https://www.hvilel
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=hvilela0&repo=PacSnake&show_icons=true&theme=radical)](https://github.com/hvilela0/PacSnake)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=hvilela0&repo=ESP-Loader-Board&show_icons=true&theme=radical)](https://github.com/hvilela0/ESP-Loader-Board)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=hvilela0&repo=Updates-on-RNEspTouch.java&show_icons=true&theme=radical)](https://github.com/hvilela0/Updates-on-RNEspTouch.java)
+
+
+Aqui haverá textos em diversas línguas, majoritariamente Português [🇧🇷] e Inglês [🇺🇸], mas já tem coisa aquicom comentários em chinês[🇨🇳] e podem aparecer outras coisas em alemão [:de:] e esperanto [:es:].
