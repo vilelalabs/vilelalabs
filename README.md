@@ -64,4 +64,4 @@ Mas você pode encontrar tudo centralizado no site: [HVilela](https://hvilela.co
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=hvilela0&repo=Updates-on-RNEspTouch.java&show_icons=true&theme=radical)](https://github.com/hvilela0/Updates-on-RNEspTouch.java)
 
 
-Aqui haverá textos em diversas línguas, majoritariamente Português [🇧🇷] e Inglês [🇺🇸], mas já tem coisa aquicom comentários em chinês[🇨🇳] e podem aparecer outras coisas em alemão [:de:] e esperanto [:es:].
+Aqui haverá textos em diversas línguas, majoritariamente Português [🇧🇷] e Inglês [🇺🇸], mas já tem coisa aqui com comentários em chinês[🇨🇳] e podem aparecer outras coisas em alemão [:de:] e esperanto [:es:].
