@@ -22,7 +22,7 @@ Bom dia, boa tarde e boa noite! Meu nome é Henrique e tenho um currículo misto
 
 🌐 Projetos relacionados a Front-end e Back-end 
 
-🔌 Circuitos de Eletrônica digital e Analógica
+🔌 Circuitos de Eletrônica Digital e Analógica
 
 🎼 Partituras? Talvez disponibilize alguma coisa de meus trabalhos musicais aqui
 
@@ -31,7 +31,10 @@ Tenho várias redes sociais  (majoritariamente ativas, mas não todas). Sendo as
 
 Mas você pode encontrar tudo centralizado no site: [HVilela](www.hvilela.com/social).
 
-### Já passei por estas linguagens/frameworks: 
+<!-- passo a passo para os ícones em:
+      https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
+      usando https://shields.io/-->
+## Já passei por estas linguagens/frameworks: 
 ![](https://img.shields.io/badge/-Assembly%20for%20PIC-007AAC?logo=assemblyscript&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=plastic) 
 ![](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=plastic) 
@@ -44,12 +47,18 @@ Mas você pode encontrar tudo centralizado no site: [HVilela](www.hvilela.com/so
 ![](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/VB-Visual%20Basic-lightgrey?style=plastic)
 
-E também, de longe, por estas:
+#### E também, de longe, por estas
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic) 
 ![](https://img.shields.io/badge/-Delphi-EE1F35?logo=delphi&logoColor=white&style=plastic) 
 ![](https://img.shields.io/badge/-Fortran-734F96?logo=fortran&logoColor=white&style=plastic) 
 ![](https://img.shields.io/badge/B-Basic-magenta?style=plastic&logoColor=black)
 
+## Estatísticas no Git...
+<!-- estatísticas e configurações em : https://github.com/anuraghazra/github-readme-stats -->
+![Stats](https://github-readme-stats.vercel.app/api?username=hvilela0&show_icons=true&theme=radical&custom_title=Minhas%20estatísticas%20no%20Github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvilela0&show_icons=true&theme=radical&langs_count=3)
 
-
-
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=hvilela0&repo=DesktopJS&show_icons=true&theme=radical)](https://github.com/hvilela0/DesktopJS)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=hvilela0&repo=PacSnake&show_icons=true&theme=radical)](https://github.com/hvilela0/PacSnake)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=hvilela0&repo=ESP-Loader-Board&show_icons=true&theme=radical)](https://github.com/hvilela0/ESP-Loader-Board)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=hvilela0&repo=Updates-on-RNEspTouch.java&show_icons=true&theme=radical)](https://github.com/hvilela0/Updates-on-RNEspTouch.java)
