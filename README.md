@@ -58,10 +58,10 @@ Mas você pode encontrar tudo centralizado no site: [HVilela](https://hvilela.co
 ![Stats](https://github-readme-stats.vercel.app/api?username=vilelalabs&show_icons=true&theme=radical&custom_title=Minhas%20estatísticas%20no%20Github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilelalabs&show_icons=true&theme=radical&langs_count=3)
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=VilelaBot&show_icons=true&theme=radical)](https://github.com/hvilela0/VilelaBot)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=PacSnake&show_icons=true&theme=radical)](https://github.com/hvilela0/PacSnake)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=ESP-Loader-Board&show_icons=true&theme=radical)](https://github.com/hvilela0/ESP-Loader-Board)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=Updates-on-RNEspTouch.java&show_icons=true&theme=radical)](https://github.com/hvilela0/Updates-on-RNEspTouch.java)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=VilelaBot&show_icons=true&theme=radical)](https://github.com/vilelalabs/VilelaBot)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=PacSnake&show_icons=true&theme=radical)](https://github.com/vilelalabs/PacSnake)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=ESP-Loader-Board&show_icons=true&theme=radical)](https://github.com/vilelalabs/ESP-Loader-Board)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=Updates-on-RNEspTouch.java&show_icons=true&theme=radical)](https://github.com/vilelalabs/Updates-on-RNEspTouch.java)
 
 
 Aqui haverá textos em diversas línguas, majoritariamente Português [🇧🇷] e Inglês [🇺🇸], mas já tem coisa aqui com comentários em chinês[🇨🇳] e podem aparecer outras coisas em alemão [:de:] e esperanto [:es:].
