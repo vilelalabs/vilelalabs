@@ -56,8 +56,9 @@ Mas você pode encontrar tudo centralizado no site: [HVilela](https://hvilela.co
 ## Estatísticas no Git...
 <!-- estatísticas e configurações em : https://github.com/anuraghazra/github-readme-stats -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=vilelalabs&show_icons=true&theme=radical&custom_title=Minhas%20estatísticas%20no%20Github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilelalabs&show_icons=true&theme=radical&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilelalabs&show_icons=true&theme=radical&langs_count=5)
 
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=BikeSpeedometer&show_icons=true&theme=radical)](https://github.com/vilelalabs/BikeSpeedometer)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=VilelaBot&show_icons=true&theme=radical)](https://github.com/vilelalabs/VilelaBot)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=PacSnake&show_icons=true&theme=radical)](https://github.com/vilelalabs/PacSnake)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=ESP-Loader-Board&show_icons=true&theme=radical)](https://github.com/vilelalabs/ESP-Loader-Board)
