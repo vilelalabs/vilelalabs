@@ -4,17 +4,20 @@ Bom dia, boa tarde e boa noite! Meu nome é Henrique e tenho um currículo misto
 
 ## Minhas Formações
 
+💻 Estudando o último ano de Engenharia da Computação pela Uninter (Curitiba - PR) 
+
 🔧 Técnico em Informática Industrial pela ETE Presidente Vargas (Mogi das Cruzes - SP)
 
 🎹 Licenciatura em Piano pela Unincor (Três Corações - MG)
 
 🎼 Técnico em Piano Erudito pelo Conservatório JKO (Pouso Alegre - MG)
 
-💻 Estudando o último ano de Engenharia da Computação pela Uninter (Curitiba - PR) 
 
 ##  Você encontrará neste Git...
 
 💡 Internet of things (IOT) / Internet das coisas
+
+🤖 Software Bots (geralmente em node.js)
 
 🎮 Games / Jogos para PC (e futuramente Mobile)
 
@@ -27,7 +30,7 @@ Bom dia, boa tarde e boa noite! Meu nome é Henrique e tenho um currículo misto
 🎼 Partituras? Talvez disponibilize alguma coisa de meus trabalhos musicais aqui
 
 ---
-Tenho várias redes sociais  (majoritariamente ativas, mas não todas). Sendo as principais o [Instagram](https://instagram.com/henriquevilelamusic), a [Twitch](https://twitch.tv/henriquevilelamusic) e o [Youtube](https://youtube.com/henriquevilelamusic).
+Tenho várias redes sociais, sendo as principais o [Instagram](https://instagram.com/henriquevilelamusic), a [Twitch](https://twitch.tv/henriquevilelamusic) e o [Youtube](https://youtube.com/henriquevilelamusic).
 
 Mas você pode encontrar tudo centralizado no site: [HVilela](https://hvilela.com/social).
 
