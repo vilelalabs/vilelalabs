@@ -50,12 +50,6 @@ Mas você pode encontrar tudo centralizado no site: [HVilela](https://hvilela.co
 ![](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/VB-Visual%20Basic-lightgrey?style=plastic)
 
-#### E também, de longe, por estas
-![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic) 
-![](https://img.shields.io/badge/-Delphi-EE1F35?logo=delphi&logoColor=white&style=plastic) 
-![](https://img.shields.io/badge/-Fortran-734F96?logo=fortran&logoColor=white&style=plastic) 
-![](https://img.shields.io/badge/B-Basic-magenta?style=plastic&logoColor=black)
-
 ## Estatísticas no Git...
 <!-- estatísticas e configurações em : https://github.com/anuraghazra/github-readme-stats -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=vilelalabs&show_icons=true&theme=radical&custom_title=Minhas%20estatísticas%20no%20Github)
