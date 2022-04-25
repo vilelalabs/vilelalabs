@@ -38,16 +38,16 @@ Mas você pode encontrar tudo centralizado no site: [HVilela](https://hvilela.co
       https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
       usando https://shields.io/ e ícones de https://simpleicons.org/-->
 ## Já passei por estas linguagens/frameworks: 
-![](https://img.shields.io/badge/-Assembly%20for%20PIC-007AAC?logo=assemblyscript&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=plastic) 
 ![](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=plastic) 
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-C++%20for%20Arduino-00979D?logo=arduino&logoColor=white&style=plastic) 
+![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=plastic) 
+![](https://img.shields.io/badge/-Assembly%20for%20PIC-007AAC?logo=assemblyscript&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/VB-Visual%20Basic-lightgrey?style=plastic)
 
 ## Estatísticas no Git...
