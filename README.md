@@ -4,13 +4,13 @@ Bom dia, boa tarde e boa noite! Meu nome é Henrique e tenho um currículo misto
 
 ## Minhas Formações
 
-💻 Estudando o último ano de Engenharia da Computação pela Uninter (Curitiba - PR) 
+👨‍💻 Engenheiro da Computação pela Uninter (Curitiba - PR) - 2022
 
-🔧 Técnico em Informática Industrial pela ETE Presidente Vargas (Mogi das Cruzes - SP)
+🔧 Técnico em Informática Industrial pela ETE Presidente Vargas (Mogi das Cruzes - SP) - 2005
 
-🎹 Licenciatura em Piano pela Unincor (Três Corações - MG)
+🎹 Licenciatura em Piano pela Unincor (Três Corações - MG) - 2013
 
-🎼 Técnico em Piano Erudito pelo Conservatório JKO (Pouso Alegre - MG)
+🎼 Técnico em Piano Erudito pelo Conservatório JKO (Pouso Alegre - MG) - 2016
 
 
 ##  Você encontrará neste Git...
@@ -64,4 +64,4 @@ Mas você pode encontrar tudo centralizado no site: [HVilela](https://hvilela.co
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=React-Native-Sortable-Grid&show_icons=true&theme=radical)](https://github.com/vilelalabs/react-native-sortable-grid)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=BikeSpeedometer&show_icons=true&theme=radical)](https://github.com/vilelalabs/BikeSpeedometer)
 
-Aqui haverá textos em diversas línguas, majoritariamente Português [🇧🇷] e Inglês [🇺🇸], mas já tem coisa aqui com comentários em chinês[🇨🇳] e podem aparecer outras coisas em alemão [:de:], esperanto [:eo:] e russo [:ru:].
+Aqui haverá textos em diversas línguas, majoritariamente Português [:brazil:] e Inglês [🇺🇸], mas já tem coisa aqui com comentários em chinês[🇨🇳] e podem aparecer outras coisas em alemão [:de:], esperanto [:eo:] e russo [:ru:].
