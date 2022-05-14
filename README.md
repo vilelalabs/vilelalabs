@@ -49,6 +49,8 @@ Mas você pode encontrar tudo centralizado no site: [HVilela](https://hvilela.co
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/VB-Visual%20Basic-lightgrey?style=plastic)
+![](https://img.shields.io/badge/-Python-007AAC?logo=python&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-TypeScript-007AAC?logo=typescript&logoColor=white&style=plastic)
 
 ## Estatísticas no Git...
 <!-- estatísticas e configurações em : https://github.com/anuraghazra/github-readme-stats -->
