@@ -1,43 +1,48 @@
 ![Top Screen](TopScreenGitHub.gif)
 
-Bom dia, boa tarde e boa noite! Meu nome é Henrique e tenho um currículo misto entre música e computação:
+> Para ver esta página em Português [clique aqui](https://github.com/vilelalabs/vilelalabs/blob/main/README-ptbr.md)
+> 
+> To see this page in Portuguese [clique aqui](https://github.com/vilelalabs/vilelalabs/blob/main/README-ptbr.md)
+---
 
-## Minhas Formações
+Good morning, afternoon, evening and night! My name's Henrique and I have a mixed knowledge base between computing and music:
 
-👨‍💻 Engenheiro da Computação pela Uninter (Curitiba - PR) - 2022
+## Academic Backgrounds
 
-🔧 Técnico em Informática Industrial pela ETE Presidente Vargas (Mogi das Cruzes - SP) - 2005
+👨‍💻 Computer Engineer - Uninter (Curitiba - PR - Brazil) - 2022
 
-🎹 Licenciatura em Piano pela Unincor (Três Corações - MG) - 2013
+🔧 Industrial IT Technician - ETE Presidente Vargas (Mogi das Cruzes - SP - Brazil) - 2005
 
-🎼 Técnico em Piano Erudito pelo Conservatório JKO (Pouso Alegre - MG) - 2016
+🎹 Degree in Piano - Unincor (Três Corações - MG - Brazil) - 2013
+
+🎼 Technician in Classical Piano - Conservatory JKO (Pouso Alegre - MG - Brazil) - 2016
 
 
 ##  Você encontrará neste Git...
 
-💡 Internet of things (IOT) / Internet das coisas
+💡 Internet of things (IOT)
 
-🤖 Software Bots (geralmente em python ou nodejs)
+🤖 Software Bots (in python or nodejs)
 
-🌐 Projetos relacionados a Front-end, Back-end e DevOps
+🌐 Front-end, Back-end and DevOps related projects
 
-🔌 Circuitos de Eletrônica Digital e Analógica
+🔌 Digital and Analog Electronic Circuits
 
-🎮 Games / Jogos para PC (e futuramente Mobile)
+🎮 PC Games programming (and mobile in future)
 
-📖 Materiais de Cursos Realizados
+📖 Courses Materials I've Taken
 
-🎼 Partituras? Talvez disponibilize alguma coisa de meus trabalhos musicais aqui
+🎼 Music Scores? Maybe I put something here...
 
 ---
-Tenho várias redes sociais, sendo as principais o [Instagram](https://instagram.com/henriquevilelamusic), a [Twitch](https://twitch.tv/vilelalabs) e o [Youtube](https://youtube.com/henriquevilelamusic).
+I've some social networks too, mainly: [Instagram](https://instagram.com/henriquevilelamusic), [Twitch](https://twitch.tv/vilelalabs) and [Youtube](https://youtube.com/henriquevilelamusic).
 
-Mas você pode encontrar tudo centralizado no site: [HVilela](https://hvilela.com/social).
+But you can find all here: [HVilela](https://hvilela.com/social).
 
 <!-- passo a passo para os ícones em:
       https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
       usando https://shields.io/ e ícones de https://simpleicons.org/-->
-## Já passei por estas linguagens/frameworks: 
+## I've been through these languages/frameworks:
 ![](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=plastic) 
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=plastic)
@@ -52,7 +57,7 @@ Mas você pode encontrar tudo centralizado no site: [HVilela](https://hvilela.co
 ![](https://img.shields.io/badge/-Python-007AAC?logo=python&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-TypeScript-007AAC?logo=typescript&logoColor=white&style=plastic)
 
-## Estatísticas no Git...
+## Git Statistics...
 <!-- estatísticas e configurações em : https://github.com/anuraghazra/github-readme-stats -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=vilelalabs&show_icons=true&theme=radical&custom_title=Minhas%20estatísticas%20no%20Github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilelalabs&show_icons=true&theme=radical&langs_count=5)
@@ -66,4 +71,4 @@ Mas você pode encontrar tudo centralizado no site: [HVilela](https://hvilela.co
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=React-Native-Sortable-Grid&show_icons=true&theme=radical)](https://github.com/vilelalabs/react-native-sortable-grid)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=BikeSpeedometer&show_icons=true&theme=radical)](https://github.com/vilelalabs/BikeSpeedometer)
 
-Aqui haverá textos em diversas línguas, majoritariamente Português [:brazil:] e Inglês [🇺🇸], mas já tem coisa aqui com comentários em chinês[🇨🇳] e podem aparecer outras coisas em alemão [:de:], esperanto [:eo:] e russo [:ru:].
+Here there will be texts in several languages, mostly Portuguese [:brazil:] and English [🇺🇸], but there's already something here with comments in Chinese[🇨🇳] and other things may appear in German [:de:], Esperanto [: eo:] and Russian [:ru:].
