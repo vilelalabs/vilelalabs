@@ -17,20 +17,20 @@ Bom dia, boa tarde e boa noite! Meu nome é Henrique e tenho um currículo misto
 
 💡 Internet of things (IOT) / Internet das coisas
 
-🤖 Software Bots (geralmente em node.js)
+🤖 Software Bots (geralmente em python ou nodejs)
+
+🌐 Projetos relacionados a Front-end, Back-end e DevOps
+
+🔌 Circuitos de Eletrônica Digital e Analógica
 
 🎮 Games / Jogos para PC (e futuramente Mobile)
 
 📖 Materiais de Cursos Realizados
 
-🌐 Projetos relacionados a Front-end e Back-end 
-
-🔌 Circuitos de Eletrônica Digital e Analógica
-
 🎼 Partituras? Talvez disponibilize alguma coisa de meus trabalhos musicais aqui
 
 ---
-Tenho várias redes sociais, sendo as principais o [Instagram](https://instagram.com/henriquevilelamusic), a [Twitch](https://twitch.tv/henriquevilelamusic) e o [Youtube](https://youtube.com/henriquevilelamusic).
+Tenho várias redes sociais, sendo as principais o [Instagram](https://instagram.com/henriquevilelamusic), a [Twitch](https://twitch.tv/vilelalabs) e o [Youtube](https://youtube.com/henriquevilelamusic).
 
 Mas você pode encontrar tudo centralizado no site: [HVilela](https://hvilela.com/social).
 
