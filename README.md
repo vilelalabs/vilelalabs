@@ -64,7 +64,7 @@ But you can find all here: [HVilela](https://hvilela.com/social).
 
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=VLHome&show_icons=true&theme=radical)](https://github.com/vilelalabs/vlhome)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=vlhomeHFModel02&show_icons=true&theme=radical)](https://github.com/vilelalabs/vlhomeHFModel02)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=VilelaBot&show_icons=true&theme=radical)](https://github.com/vilelalabs/VilelaBot)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=AmostradorAutomatico&show_icons=true&theme=radical)](https://github.com/vilelalabs/AmostradorAutomatico)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=PacSnake&show_icons=true&theme=radical)](https://github.com/vilelalabs/PacSnake)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=ESP-Loader-Board&show_icons=true&theme=radical)](https://github.com/vilelalabs/ESP-Loader-Board)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=Updates-on-RNEspTouch.java&show_icons=true&theme=radical)](https://github.com/vilelalabs/Updates-on-RNEspTouch.java)
