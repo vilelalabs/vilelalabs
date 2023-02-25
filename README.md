@@ -71,4 +71,4 @@ But you can find all here: [HVilela](https://hvilela.com/social).
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=React-Native-Sortable-Grid&show_icons=true&theme=radical)](https://github.com/vilelalabs/react-native-sortable-grid)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=BikeSpeedometer&show_icons=true&theme=radical)](https://github.com/vilelalabs/BikeSpeedometer)
 
-Here there will be texts in several languages, mostly Portuguese [:brazil:] and English [🇺🇸], but there's already something here with comments in Chinese[🇨🇳] and other things may appear in German [:de:], Esperanto [: eo:] and Russian [:ru:].
+_Here there will be texts in several languages, mostly Portuguese [:brazil:] and English [🇺🇸], but there's already something here with comments in Chinese[🇨🇳] and other things may appear in German [:de:], Esperanto [:eo:] and Russian [:ru:]._
