@@ -44,7 +44,7 @@ But you can find all here: [HVilela](https://hvilela.com/social).
       usando https://shields.io/ e ícones de https://simpleicons.org/-->
 ## I've been through these languages/frameworks:
 
-#### Mais utilizadas
+#### Most Used
 ![](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=plastic) 
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-VueJS-4FC08D?logo=vue.js&logoColor=white&style=plastic)
@@ -52,8 +52,7 @@ But you can find all here: [HVilela](https://hvilela.com/social).
 ![](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=plastic)
-
-#### Complementares
+#### Additionals
 ![](https://img.shields.io/badge/-PostrgeSQL-4169E1?logo=PostgreSQL&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-C++%20for%20Arduino-00979D?logo=arduino&logoColor=white&style=plastic) 
