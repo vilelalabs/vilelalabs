@@ -2,7 +2,7 @@
 
 > Para ver esta página em Português [clique aqui](https://github.com/vilelalabs/vilelalabs/blob/main/README-ptbr.md)
 > 
-> To see this page in Portuguese [clique aqui](https://github.com/vilelalabs/vilelalabs/blob/main/README-ptbr.md)
+> To see this page in Portuguese [click here](https://github.com/vilelalabs/vilelalabs/blob/main/README-ptbr.md)
 ---
 
 Good morning, afternoon, evening and night! My name's Henrique and I have a mixed knowledge base between computing and music:
