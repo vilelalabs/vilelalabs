@@ -2,7 +2,7 @@
 
 > Para ver esta página em Inglês [clique aqui](https://github.com/vilelalabs/vilelalabs/blob/main/README.md)
 > 
-> To see this page in English [clique aqui](https://github.com/vilelalabs/vilelalabs/blob/main/README.md)
+> To see this page in English [click here](https://github.com/vilelalabs/vilelalabs/blob/main/README.md)
 ---
 
 
