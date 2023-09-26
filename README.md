@@ -45,18 +45,18 @@ But you can find all here: [HVilela](https://hvilela.com/social).
 ## I've been through these languages/frameworks:
 
 #### Most Used Lastly...
-![](https://img.shields.io/badge/next%20js-333333?style=for-the-badge&logo=nextdotjs&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/next%20js-333333?logo=nextdotjs&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=plastic) 
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=plastic) 
 #### Devops
-![](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=plastic)
 #### Additionals
 ![](https://img.shields.io/badge/-PostrgeSQL-4169E1?logo=PostgreSQL&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/-C++%20for%20Arduino-00979D?logo=arduino&logoColor=white&style=plastic) 
 ![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=plastic) 
 ![](https://img.shields.io/badge/-Assembly%20for%20PIC-007AAC?logo=assemblyscript&logoColor=white&style=plastic)
