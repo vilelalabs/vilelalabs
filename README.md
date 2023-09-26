@@ -35,9 +35,8 @@ Good morning, afternoon, evening and night! My name's Henrique and I have a mixe
 🎼 Music Scores? Maybe I put something here...
 
 ---
-I've some social networks too, mainly: [Instagram](https://instagram.com/henriquevilelamusic), [Twitch](https://twitch.tv/vilelalabs) and [Youtube](https://youtube.com/henriquevilelamusic).
 
-But you can find all here: [HVilela](https://hvilela.com/social).
+You can find more here: [HVilela](https://hvilela.com).
 
 ## I've been through these languages/frameworks:
 
