@@ -39,9 +39,6 @@ I've some social networks too, mainly: [Instagram](https://instagram.com/henriqu
 
 But you can find all here: [HVilela](https://hvilela.com/social).
 
-<!-- passo a passo para os ícones em:
-      https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
-      usando https://shields.io/ e ícones de https://simpleicons.org/-->
 ## I've been through these languages/frameworks:
 
 #### Most Used Lastly...
@@ -66,9 +63,10 @@ But you can find all here: [HVilela](https://hvilela.com/social).
 ![](https://img.shields.io/badge/-VueJS-4FC08D?logo=vue.js&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
 
+<!--
 ## Git Statistics...
-<!-- estatísticas e configurações em : https://github.com/anuraghazra/github-readme-stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=vilelalabs&show_icons=true&theme=radical&custom_title=Minhas%20estatísticas%20no%20Github)
+<!-- estatísticas e configurações em : https://github.com/anuraghazra/github-readme-stats --
+![Stats](https://github-readme-stats.vercel.app/api?username=vilelalabs&show_icons=true&theme=radical&custom_title=Minhas%20estatísticas%20no%20Github) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilelalabs&show_icons=true&theme=radical&langs_count=5)
 
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=VLHome&show_icons=true&theme=radical)](https://github.com/vilelalabs/vlhome)
@@ -80,5 +78,4 @@ But you can find all here: [HVilela](https://hvilela.com/social).
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=Updates-on-RNEspTouch.java&show_icons=true&theme=radical)](https://github.com/vilelalabs/Updates-on-RNEspTouch.java)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=React-Native-Sortable-Grid&show_icons=true&theme=radical)](https://github.com/vilelalabs/react-native-sortable-grid)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=vilelalabs&repo=BikeSpeedometer&show_icons=true&theme=radical)](https://github.com/vilelalabs/BikeSpeedometer)
-
-_Here there will be texts in several languages, mostly Portuguese [:brazil:] and English [🇺🇸], but there's already something here with comments in Chinese[🇨🇳] and other things may appear in German [:de:], Esperanto [:eo:] and Russian [:ru:]._
+-->
