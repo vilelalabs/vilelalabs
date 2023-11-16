@@ -11,13 +11,13 @@ Bom dia, boa tarde e boa noite! Meu nome é Henrique e tenho um currículo misto
 
 ## Minhas Formações
 
-👨‍💻 Engenheiro da Computação pela Uninter (Curitiba - PR) - 2022
+👨‍💻 (Superior) Engenheiro da Computação pela Uninter (Curitiba - PR) - [2017-2022]
 
-🔧 Técnico em Informática Industrial pela ETE Presidente Vargas (Mogi das Cruzes - SP) - 2005
+🔧 (Técnico) Informática Industrial pela ETE Presidente Vargas (Mogi das Cruzes - SP) - [2004-2005]
 
-🎹 Licenciatura em Piano pela Unincor (Três Corações - MG) - 2013
+🎹 (Superior) Licenciatura em Piano pela Unincor (Três Corações - MG) - [2011-2013]
 
-🎼 Técnico em Piano Erudito pelo Conservatório JKO (Pouso Alegre - MG) - 2016
+🎼 (Técnico) Piano Erudito pelo Conservatório JKO (Pouso Alegre - MG) - [2010-2016]
 
 
 ##  Você encontrará neste Git...
