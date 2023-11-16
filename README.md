@@ -22,9 +22,9 @@ Good morning, afternoon, evening and night! My name's Henrique and I have a mixe
 
 🌐 Front-end, Back-end and DevOps related projects
 
-💡 Internet of things (IOT)
-
 🤖 Software Bots / Scrappers (in python, nodejs, etc)
+
+💡 Internet of things (IOT)
 
 🔌 Digital and Analog Electronic Circuits
 
