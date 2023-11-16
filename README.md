@@ -9,22 +9,22 @@ Good morning, afternoon, evening and night! My name's Henrique and I have a mixe
 
 ## Academic Backgrounds
 
-👨‍💻 Computer Engineer - Uninter (Curitiba - PR - Brazil) - 2022
+👨‍💻 (Bachelor) Computer Engineer - Uninter (Curitiba - PR - Brazil) - [2017-2022]
 
-🔧 Industrial IT Technician - ETE Presidente Vargas (Mogi das Cruzes - SP - Brazil) - 2005
+🔧 (Tech) Industrial IT Technician - ETE Presidente Vargas (Mogi das Cruzes - SP - Brazil) - [2004-2005]
 
-🎹 Degree in Piano - Unincor (Três Corações - MG - Brazil) - 2013
+🎹 (Major) Degree in Piano - Unincor (Três Corações - MG - Brazil) - [2011-2013]
 
-🎼 Technician in Classical Piano - Conservatory JKO (Pouso Alegre - MG - Brazil) - 2016
+🎼 (Tech) Classical Piano - Conservatory JKO (Pouso Alegre - MG - Brazil) - [2010-2016]
 
 
 ##  Você encontrará neste Git...
 
+🌐 Front-end, Back-end and DevOps related projects
+
 💡 Internet of things (IOT)
 
-🤖 Software Bots (in python or nodejs)
-
-🌐 Front-end, Back-end and DevOps related projects
+🤖 Software Bots / Scrappers (in python, nodejs, etc)
 
 🔌 Digital and Analog Electronic Circuits
 
