@@ -22,11 +22,11 @@ Bom dia, boa tarde e boa noite! Meu nome é Henrique e tenho um currículo misto
 
 ##  Você encontrará neste Git...
 
-💡 Internet of things (IOT) / Internet das coisas
-
-🤖 Software Bots (geralmente em python ou nodejs)
-
 🌐 Projetos relacionados a Front-end, Back-end e DevOps
+
+🤖 Software Bots / Scrappers (em python, nodejs, etc)
+
+💡 Internet of things (IOT) / Internet das coisas
 
 🔌 Circuitos de Eletrônica Digital e Analógica
 
