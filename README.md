@@ -42,7 +42,8 @@ You can find more here: [HVilela](https://hvilela.com).
 ## I've been through these languages/frameworks:
 
 #### Most Used Lastly...
-![](https://img.shields.io/badge/next%20js-333333?logo=nextdotjs&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/Next%20js-333333?logo=nextdotjs&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=plastic) 
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=plastic) 
@@ -61,7 +62,6 @@ You can find more here: [HVilela](https://hvilela.com).
 ![](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Python-007AAC?logo=python&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-VueJS-4FC08D?logo=vue.js&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
 
 <!--
 ## Git Statistics...
